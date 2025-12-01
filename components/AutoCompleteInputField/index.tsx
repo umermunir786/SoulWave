@@ -113,7 +113,7 @@ const AutoCompleteInputField: React.FC<InputFieldProps> = ({
             listViewDisplayed="auto"
             enablePoweredByContainer={false}
             query={{
-              key: process.env.EXPO_PUBLIC_GOOGLE_PLACES_API_KEY || "AIzaSyBTfmafw67mrYUhReeF6NURJ0QIta0nNaA",
+              key: process.env.EXPO_PUBLIC_GOOGLE_PLACES_API_KEY || "api_key",
               language: "en",
               types: "geocode",
             }}

@@ -113,7 +113,7 @@ export function convertTimeToISO(inputTime) {
 
 export const getCoordinates = async (latitude, longitude, type) => {
   await fetch(
-    `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${"AIzaSyAKxDFZP8N395fl0cp57W_w5HdCGXEDVss"}`,
+    `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${"api_key"}`,
     {
       method: "GET",
     }
@@ -520,7 +520,7 @@ export const handleGoogleLogin = async () => {
 export const getGreeting = () => {
   const currentHour = new Date().getHours();
 
-  if (currentHour < 12) return 'Good Morning';
-  else if (currentHour < 18) return 'Good Afternoon';
-  else return 'Good Evening';
+  if (currentHour < 12) return "Good Morning";
+  else if (currentHour < 18) return "Good Afternoon";
+  else return "Good Evening";
 };
