@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "841830590679",
+    "project_id": "soulwave-e2571",
+    "storage_bucket": "soulwave-e2571.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841830590679:android:8f2c5949688340a9a7a892",
+        "android_client_info": {
+          "package_name": "com.txdynamics.soulWave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841830590679-8po87h2buj7thibeq3887uqcbig9npe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.txdynamics.soulWave",
+            "certificate_hash": "f90345bdac4a603c64a09bba614b4e4dc6952782"
+          }
+        },
+        {
+          "client_id": "841830590679-tu4ep99j9j6adcefqfrkoi0t6sionrmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.txdynamics.soulWave",
+            "certificate_hash": "b857d965f83258f568a5b231c7113eed4fbb8970"
+          }
+        },
+        {
+          "client_id": "841830590679-ucgcpkh47u186lk5vubsmsttdb7bmq5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.txdynamics.soulWave",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "841830590679-mn4gqbpreebgvja2v2es4vag64m33q3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYEf8ymcidgyAKKwFggYGx7LvtAvNNfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841830590679-mn4gqbpreebgvja2v2es4vag64m33q3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841830590679-6cn3j1ktn9i8v3ote78fantjse5c2fre.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.txdynamics.soulWave"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

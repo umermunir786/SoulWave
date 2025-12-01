@@ -1,0 +1,18 @@
+export const FontFamily = {
+  appRegular: 'appRegular',
+  appBlack: 'appBlack',
+  appBlackItalic: 'appBlackItalic',
+  appBold: 'appBold',
+  appBoldItalic: 'appBoldItalic',
+  appExtraBold: 'appExtraBold',
+  appExtraBoldItalic: 'appExtraBoldItalic',
+  appItalic: 'appItalic',
+  appLightItalic: 'appLightItalic',
+  appExtraLightItalic: 'appExtraLightItalic',
+  appLight: 'appLight',
+  appExtraLight: 'appExtraLight',
+  appMedium: 'appMedium',
+  appMediumItalic: 'appMediumItalic',
+  appSemiBold: 'appSemiBold',
+  appSemiBoldItalic: 'appSemiBoldItalic',
+  };
